@@ -1,3 +1,3 @@
 # signup-form
 
-<img src="screenshot.png" width="auto" height="auto" alt="screenshot of card" />
+<img src="screenshot2.png" width="auto" height="auto" alt="screenshot of card" />
